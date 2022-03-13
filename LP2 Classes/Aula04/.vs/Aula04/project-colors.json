@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01edeefd-27b7-4a26-9fba-b2f797fa2897": {
+      "ProjectGuid": "01edeefd-27b7-4a26-9fba-b2f797fa2897",
+      "DisplayName": "ContaBancaria",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
