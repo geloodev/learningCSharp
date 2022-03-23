@@ -1,0 +1,2 @@
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Ex01_Vetores/obj/Debug/ex01.exe
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Ex01_Vetores/obj/Debug/ex01.pdb

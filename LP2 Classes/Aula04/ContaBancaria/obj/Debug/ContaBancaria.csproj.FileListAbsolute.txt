@@ -1,8 +1,0 @@
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\bin\Debug\ContaBancaria.exe.config
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\bin\Debug\ContaBancaria.exe
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\bin\Debug\ContaBancaria.pdb
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\obj\Debug\ContaBancaria.csproj.SuggestedBindingRedirects.cache
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\obj\Debug\ContaBancaria.exe
-C:\Users\Aluno\Downloads\Ângelo\Aula04\ContaBancaria\obj\Debug\ContaBancaria.pdb

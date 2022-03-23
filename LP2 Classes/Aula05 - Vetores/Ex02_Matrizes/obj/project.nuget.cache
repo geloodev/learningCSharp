@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyJWiUfa30mtd4Jv7iYkvVnax44tDjIVfddP+fKAK636ta3GmT6veYjAZrdJEsvPEIqN053JgR38zmRAq34IhQ==",
+  "success": true,
+  "projectFilePath": "/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Ex02_Matrizes/Ex02_Matrizes.csproj",
+  "expectedPackageFiles": [
+    "/home/geloodev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

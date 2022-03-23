@@ -1,0 +1,15 @@
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/bin/Debug/net6.0/Exemplo01_Contador
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/bin/Debug/net6.0/Exemplo01_Contador.deps.json
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/bin/Debug/net6.0/Exemplo01_Contador.runtimeconfig.json
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/bin/Debug/net6.0/Exemplo01_Contador.dll
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/bin/Debug/net6.0/ref/Exemplo01_Contador.dll
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/bin/Debug/net6.0/Exemplo01_Contador.pdb
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.csproj.AssemblyReference.cache
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.GeneratedMSBuildEditorConfig.editorconfig
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.AssemblyInfoInputs.cache
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.AssemblyInfo.cs
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.csproj.CoreCompileInputs.cache
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.dll
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/ref/Exemplo01_Contador.dll
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.pdb
+/home/geloodev/Downloads/Aula05 - Referencias/Exemplo01_Contador/obj/Debug/net6.0/Exemplo01_Contador.genruntimeconfig.cache
