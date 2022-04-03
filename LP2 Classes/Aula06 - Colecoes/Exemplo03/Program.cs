@@ -23,12 +23,10 @@ namespace Exemplo_03
             programa.Add("rtf", "wordpad.exe");
             
             //função para evitar que um possível erro ocorra, substituindo ele por outro comando
-            try
-            {
+            try {
                 programa.Add("txt", "winword.exe");
             }
-            catch (ArgumentException)
-            {
+            catch (ArgumentException) {
                 Console.WriteLine("Já existe um elemento com a chave = \"txt\"."); // \" serve para utilizar as aspas como texto
             }
             

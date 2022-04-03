@@ -1,0 +1,15 @@
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.csproj.AssemblyReference.cache
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.AssemblyInfoInputs.cache
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.AssemblyInfo.cs
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.csproj.CoreCompileInputs.cache
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/bin/Debug/net6.0/Exercicio01
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/bin/Debug/net6.0/Exercicio01.deps.json
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/bin/Debug/net6.0/Exercicio01.runtimeconfig.json
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/bin/Debug/net6.0/Exercicio01.dll
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/bin/Debug/net6.0/ref/Exercicio01.dll
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/bin/Debug/net6.0/Exercicio01.pdb
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.dll
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/ref/Exercicio01.dll
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.pdb
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio01/obj/Debug/net6.0/Exercicio01.genruntimeconfig.cache

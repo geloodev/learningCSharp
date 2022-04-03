@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exemplo_02
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Exemplo_02 {
+    class Program {
+        static void Main(string[] args) {
             //cria um conjunto (igual lista, mas sem itens repetidos)
             HashSet<int> conjunto = new HashSet<int>();
 
@@ -32,19 +29,16 @@ namespace Exemplo_02
             MostraConjunto("Remoção de elementos: ", conjunto);
 
             //verifica se o conjunto contém o número 5
-            if (conjunto.Contains(5))
-            {
+            if (conjunto.Contains(5)) {
                 Console.WriteLine("Conjunto contém o elemento 5!");
             }
         }
 
         //método auxiliar para imprimir o conteúdo do conjunto
-        private static void MostraConjunto(string text, HashSet<int> conj)
-        {
+        private static void MostraConjunto(string text, HashSet<int> conj) {
             Console.Write(text + "{");
             
-            for (int i = 0; i < conj.Count; i++)
-            {
+            for (int i = 0; i < conj.Count; i++) {
                 Console.Write(" {0}", conj.ElementAt(i));
             }
 

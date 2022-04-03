@@ -1,0 +1,5 @@
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio02/obj/Debug/net6.0/Exercicio02.csproj.AssemblyReference.cache
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio02/obj/Debug/net6.0/Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio02/obj/Debug/net6.0/Exercicio02.AssemblyInfoInputs.cache
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio02/obj/Debug/net6.0/Exercicio02.AssemblyInfo.cs
+/home/geloodev/Code Projects/C#/LP2 Classes/Aula05 - Vetores/Exercicio02/obj/Debug/net6.0/Exercicio02.csproj.CoreCompileInputs.cache
